@@ -1,0 +1,6 @@
+{
+  "name": "Sharqiyah PowerGrid Engineering",
+  "description": "High-Voltage Electrical Contracting & Substation Infrastructure Specialists in Ash Sharqiyah, Sultanate of Oman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
